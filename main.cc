@@ -6,7 +6,6 @@ int main(){
     int input, small, big;
     int temp;
     int one, ten, hund;
-    int i;
     cout << "enter the number!  ";
     cin >> input;
     temp = input;
